@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/fbuonojr/cmdlinewordgame/issues"
   },
-  "homepage": "https://github.com/fbuonojr/cmdlinewordgame#readme"
+  "homepage": "https://github.com/fbuonojr/cmdlinewordgame#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  }
 }
