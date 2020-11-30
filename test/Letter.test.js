@@ -16,7 +16,7 @@ describe("Letter class", () => {
         });
 
         it("Incorrect guess returns false", () => {
-            expect(new Letter("j").guedd("l")).toBe(false);
+            expect(new Letter("j").guess("l")).toBe(false);
         });
     });
 
