@@ -1,13 +1,9 @@
-# Project Name
+# Command Line Word Guess Game
 
-#### Technologies used: 
+#### Technologies used: JavaScript, Express, Node.js
 
-This application does . . . . .
+This application creates a command line game of hangman.
 
-How to use
-
-* link to deployed application:
-
-![](./images/)
+How to use: run npm i to install necessary dependencies then run npm start to begin game
 
 ###### Frank Buono- this app was created as practice using an activity from my bootcamp class
